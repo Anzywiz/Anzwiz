@@ -15,7 +15,7 @@ I scrape data, build intelligent bots, and I'm diving deep into Data Science, Ba
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-FF6C37?style=for-the-badge&logo=python&logoColor=white)
 
-### **Currently Learning: ML/DL & Data Science**
+### **Expanding Into: ML/DL & Data Science**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
