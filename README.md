@@ -45,7 +45,7 @@ Data is the new oil, and I’m here to extract and refine it. I build data pipel
 
 ## Connect With Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/bot_arena_chat)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/Anzywiz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://ifeanyimuotoe.streamlit.app/)
 
 ---
